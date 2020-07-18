@@ -2,7 +2,7 @@
 
 **Easy Jekyll is using the latest Jekyll version: v1.4.1**
 
-**Jekyll** is an open source static site generator that's perfect for GitHub page ([Jekyll Repository](https://github.com/jekyll/jekyll)).
+**Jekyll** is an open source static site generator that's perfect for your GitHub page ([demo](https://hulka1337.github.io/)).
 
 **Easy Jekyll** makes it easier to create your blog, by eliminating a lot of the upfront setup, especially for Windows users as Jekyll doesn't support Windows.
 
@@ -11,10 +11,10 @@
 - You don't need to install runtime dependencies like markdown processors, Pygments, etc
 - It's easy to try out, you can just delete your forked repository if you don't like it
 
-Within 5 minutes, you'll be ready with a minimal, responsive blog like the one below:
+In less than 5 minutes, you'll be ready with a minimalistic responsive blog like the one below:
 
 <details>
-  <summary>Click to see the image!</summary>
+  <summary>Click to see image!</summary>
   
 
 ![Image](https://i.imgur.com/boPPb4F.png)
@@ -55,7 +55,8 @@ Edit `/_posts/2020-07-13-welcome-to-jekyll.md` to publish your first blog post. 
 ## Easy Jekyll Features
 
 - Command-line free _fork-first workflow_, using GitHub.com to create, customize and post to your blog  
-- Fully responsive and mobile optimized base theme (**[Theme Demo](https://hulka1337.github.io/)**)  
+- Fully responsive and mobile optimized base theme
+- Unlimited creative potential: ([example](https://hadal1337.github.io/))  
 - Markdown style blogging  
 - SVG social icons for your footer  
 - No installing dependencies  
